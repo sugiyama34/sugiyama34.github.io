@@ -8,7 +8,7 @@ As AIcia Solid, I uploaded 200+ lecture videos for AI, Data Science, and Mathema
 
 ## contact
 
-- Email: satoshi.sugiyama@atrae.co.jp
+- Email: sugiyama.satoshi.work@gmail.com
 - X: https://x.com/sugi3_34
 - LinkedIn: https://www.linkedin.com/in/satoshi-sugiyama-50482b143/
 - GitHub: https://github.com/sugiyama34
