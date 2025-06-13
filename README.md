@@ -24,18 +24,30 @@ Trying to find. Around diffusion models.
 # Research
 
 - アンケート時系列データを用いた個人別等化アルゴリズムの提案 https://www.jstage.jst.go.jp/article/vconf/2024/0/2024_45/_article/-char/ja 
+    - Author : AIcia Solid
+    - Conference : the annual conference of the virtual society
+    - type : conference paper (unreviewed)
 - 特許7633001 https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2020-076745/10/ja 
     - **Personalized Survey Analysis System Using IRT-HMM Integration for Work Engagement Measurement**
+    - type : patent
     - 発明者 : Satoshi Sugiyama
 - 組織ネットワーク分析における新しい情報伝達効率の定義とその理論解析 https://www.jstage.jst.go.jp/article/vconf/2023/0/2023_240/_article/-char/ja 
     - Author : AIcia Solid
+    - Conference : the annual conference of the virtual society
+    - type : conference paper (unreviewed)
 - Spin における「360°回転 = -1倍」が VRを用いた4次元可視化で出現する現象について https://www.jstage.jst.go.jp/article/vconf/2022/0/2022_171/_article/-char/ja 
     - Author : AIcia Solid
+    - Conference : the annual conference of the virtual society
+    - type : conference paper (unreviewed)
 - 項目反応理論における温度概念の自然な出現について https://www.jstage.jst.go.jp/article/vconf/2020/0/2020_28/_article/-char/ja 
     - Author : AIcia Solid
+    - Conference : the annual conference of the virtual society
+    - type : conference paper (unreviewed)
 - [1701.00429] Fukaya categories in Koszul duality theory https://arxiv.org/abs/1701.00429 
+    - type : paper
     - Author : Satoshi Sugiyama
 - [1607.02263] On the Fukaya-Seidel categories of surface Lefschetz fibrations https://arxiv.org/abs/1607.02263 
+    - type : paper
     - Author : Satoshi Sugiyama
 
 # Books

@@ -301,6 +301,10 @@ body {
     color: #10b981;
     font-weight: 500;
     font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
 }
 
 .venue a {
@@ -470,6 +474,53 @@ body {
     padding: 0.25rem 0.5rem;
     border-radius: 12px;
     border: 1px solid #fecaca;
+}
+
+.tags {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.tag {
+    font-size: 0.7rem;
+    font-weight: 500;
+    padding: 0.25rem 0.5rem;
+    border-radius: 12px;
+    border: 1px solid;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.type-tag {
+    color: #7c3aed;
+    background: #f3f4f6;
+    border-color: #e5e7eb;
+}
+
+.conference-paper-unreviewed-tag {
+    color: #ea580c;
+    background: #fff7ed;
+    border-color: #fed7aa;
+}
+
+.patent-tag {
+    color: #7c3aed;
+    background: #f5f3ff;
+    border-color: #e9d5ff;
+}
+
+.language-tag {
+    color: #ef4444;
+    background: #fef2f2;
+    border-color: #fecaca;
+}
+
+.year-tag {
+    color: #6b7280;
+    background: #f9fafb;
+    border-color: #e5e7eb;
 }
 
 .footer {
