@@ -79,7 +79,7 @@ https://www.youtube.com/@AIcia_Solid
 
 - Deep Learning (completed) : https://www.youtube.com/playlist?list=PLhDAH9aTfnxKXf__soUoAEOrbLAOnVHCP
 - Reinforcement Learning (ongoing) : https://www.youtube.com/playlist?list=PLhDAH9aTfnxI1OywfnxXCDTWGtYL2NxJR
-- Generative Models (coming soon)
+- Generative Models (ongoing) : https://www.youtube.com/playlist?list=PLhDAH9aTfnxK8oE2MV-9_OUL2Row_C0bF
 - Quantum Computing (completed) : https://www.youtube.com/playlist?list=PLhDAH9aTfnxIn187aezRyQQDGGYbdoxTP
 - Multivariate Analysis (completed) : https://www.youtube.com/playlist?list=PLhDAH9aTfnxJGiLwq2CRS87J51ZPU5IEM
 - Bayesian statistics (completed) : https://www.youtube.com/playlist?list=PLhDAH9aTfnxIU4Hd1G1UdIVzHpgKfyEnw
