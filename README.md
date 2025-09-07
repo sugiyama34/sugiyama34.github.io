@@ -57,7 +57,7 @@ Trying to find. Around diffusion models.
 
 # Experience
 
-- Senior Data Scientist, Atrae, Inc., 201710-present
+- Senior Data Scientist, Atrae, Inc., 201610-present
     - Founded the Data Science Team as the first Data Scientist
     - Managing the ML/DL Study Group since 2019 (hands-on, half-year course, ongoing)
     - Added statistical features to Wevox (Organization Empowering Platform)
