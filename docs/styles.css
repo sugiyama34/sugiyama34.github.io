@@ -205,9 +205,9 @@ body {
 
 .institution,
 .company {
-    font-size: 1rem;
-    color: #667eea;
-    font-weight: 500;
+    font-size: 1.1rem;
+    color: #5568d3;
+    font-weight: 600;
     margin-bottom: 0.3rem;
 }
 

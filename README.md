@@ -9,7 +9,7 @@ As AIcia Solid, I uploaded 200+ lecture videos for AI, Data Science, and Mathema
 ## contact
 
 - Email: sugiyama.satoshi.work@gmail.com
-- X: https://x.com/sugi3_aicia
+- X: https://x.com/AIcia_Solid
 - LinkedIn: https://www.linkedin.com/in/satoshi-sugiyama-50482b143/
 - GitHub: https://github.com/sugiyama34
 - Google Scholar: https://scholar.google.com/citations?user=S2QuLRYAAAAJ
@@ -68,6 +68,8 @@ Trying to find. Around diffusion models.
     - Involved in the Data Scientist Certification program
 - SFC上席所員、慶應義塾大学 総合政策学部 島津明人研究室、201904-present
     - Research assistance (gathering survey subjects from company customers, etc.)
+- 大阪大学 D3センター 招へい研究員、202511-present
+    - visiting academic staff (studying diffusion models)
 
 # VTubing
 
