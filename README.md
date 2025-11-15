@@ -71,6 +71,20 @@ Trying to find. Around diffusion models.
 - 大阪大学 D3センター 招へい研究員、202511-present
     - visiting academic staff (studying diffusion models)
 
+## Awards
+
+- 文部科学大臣賞 (MEXT Minister’s Award) 2006
+    - 実用数学技能検定1級の最優秀合格者 (Top Successful Candidate of the Practical Mathematics Proficiency Test Level 1)
+    - MEXT = Ministry of Education, Culture, Sports, Science and Technology
+- Atrae, Inc. での受賞歴
+    - 2018/04 MVP, for contribution to advancing marketing by data analysis
+    - 2019/04 Best Team Award (Wevox Team), for contribution to the growth of new business initiatives
+    - 2020/10 Best Team Award (Data Science Team), for building and operationalizing the Team
+    - 2024/04 MVP, for contribution to data & AI strategy and the cultivation of a data- and AI-driven culture
+- 世界コンピューター将棋選手権大会 (World Computer Shogi Championship)
+    - 2025/05, Winner and Special Creativity Award, as Suisho Team (優勝、独創賞特別賞)
+    - organized by CSA (Computer Shogi Association, コンピュータ将棋協会) 
+
 # VTubing
 
 Satoshi Sugiyama is VTubing as AIcia Solid, a data science VTuber
