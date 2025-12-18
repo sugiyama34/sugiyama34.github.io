@@ -23,6 +23,10 @@ Trying to find. Around diffusion models.
 
 # Research
 
+- 360度評価データの統計的集約について - バイアスと評価力を加味したベイズ的手法 https://www.jstage.jst.go.jp/article/vconf/2025/0/2025_170/_article/-char/ja
+    - Author : AIcia Solid
+    - Conference : the annual conference of the virtual society
+    - type : conference paper (unreviewed)
 - アンケート時系列データを用いた個人別等化アルゴリズムの提案 https://www.jstage.jst.go.jp/article/vconf/2024/0/2024_45/_article/-char/ja 
     - Author : AIcia Solid
     - Conference : the annual conference of the virtual society
