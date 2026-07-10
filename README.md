@@ -23,6 +23,10 @@ Trying to find. Around diffusion models.
 
 # Research
 
+- [2607.03108] Observable- and Positional-Encoding-Dependent Symmetry Readout from Neural Network Weights https://arxiv.org/abs/2607.03108
+    - type : paper
+    - Author : Naoya Chiba, Satoshi Sugiyama, Yuki Uranishi
+    - minor contribution
 - 360度評価データの統計的集約について - バイアスと評価力を加味したベイズ的手法 https://www.jstage.jst.go.jp/article/vconf/2025/0/2025_170/_article/-char/ja
     - Author : AIcia Solid
     - Conference : the annual conference of the virtual society
@@ -62,18 +66,26 @@ Trying to find. Around diffusion models.
 # Experience
 
 - Senior Data Scientist, Atrae, Inc., 201610-present
+    - https://atrae.co.jp/en/?inside=true
     - Founded the Data Science Team as the first Data Scientist
     - Managing the ML/DL Study Group since 2019 (hands-on, half-year course, ongoing)
     - Added statistical features to Wevox (Organization Empowering Platform)
     - Obtained patent (Patent 7633001)
     - Introducing MLOps to Green (Job-Hunting service) (ongoing)
 - スキル定義委員、データサイエンティスト協会、201909-present
+    - https://www.datascientist.or.jp/
     - Update the skill checklist for Data Scientists
     - Involved in the Data Scientist Certification program
 - SFC上席所員、慶應義塾大学 総合政策学部 島津明人研究室、201904-present
+    - https://en.hp3.jp/
     - Research assistance (gathering survey subjects from company customers, etc.)
 - 大阪大学 D3センター 招へい研究員、202511-present
+    - https://www.lab.ime.cmc.osaka-u.ac.jp/?lang=en
     - visiting academic staff (studying diffusion models)
+- 技術顧問、https://www.edge-tech.co.jp/、202604-present
+    - https://www.edge-tech.co.jp/
+    - 技術顧問、記事執筆
+
 
 ## Awards
 
