@@ -23,6 +23,10 @@ Trying to find. Around diffusion models.
 
 # Research
 
+- 特開2023-151696 https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-151696/11/ja
+    - **Organizational Culture Survey and Analysis System**
+    - type : patent
+    - 発明者 : Yuki Moriyama, Yuya Nakamura, Satoshi Sugiyama, Tetsuya TAKEDA
 - [2607.03108] Observable- and Positional-Encoding-Dependent Symmetry Readout from Neural Network Weights https://arxiv.org/abs/2607.03108
     - type : paper
     - Author : Naoya Chiba, Satoshi Sugiyama, Yuki Uranishi
