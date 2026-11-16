@@ -93,8 +93,9 @@ Trying to find. Around diffusion models.
 
 ## Awards
 
-- 文部科学大臣賞 (MEXT Minister’s Award) 2006
-    - 実用数学技能検定1級の最優秀合格者 (Top Successful Candidate of the Practical Mathematics Proficiency Test Level 1)
+- 文部科学大臣賞 (MEXT Minister’s Award) 2006, 2026
+    - 2006, 実用数学技能検定1級の最優秀合格者 (Top Successful Candidate of the Practical Mathematics Proficiency Test Level 1)
+    - 2026/11, 電竜戦 優勝 (Winner of Denryu-Sen, Shogi AI Championship), as Suisho Team
     - MEXT = Ministry of Education, Culture, Sports, Science and Technology
 - Atrae, Inc. での受賞歴
     - 2018/04 MVP, for contribution to advancing marketing by data analysis
@@ -104,6 +105,9 @@ Trying to find. Around diffusion models.
 - 世界コンピューター将棋選手権大会 (World Computer Shogi Championship)
     - 2025/05, Winner and Special Creativity Award, as Suisho Team (優勝、独創賞特別賞)
     - organized by CSA (Computer Shogi Association, コンピュータ将棋協会) 
+- 電竜戦 (Denryu-Sen, Shogi AI Championship)
+    - 2026/11, Winner as Suisho Team （優勝）, with 文部科学大臣賞 (MEXT Minister’s Award)
+    - organized by NPO AI Denryu-Sen Project (特定非営利活動法人ＡＩ電竜戦プロジェクト)
 
 # VTubing
 
